@@ -1,2 +1,2 @@
 def buildTest():
-	print("This is a build test")
+	return "This is a build test"
