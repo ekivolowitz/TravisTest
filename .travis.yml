@@ -1,6 +1,5 @@
-language: go
-go:
-	- "1.10"
-branches:
-	only:
-	- master
+language: python
+python:
+  - "3.6"
+install: true
+
